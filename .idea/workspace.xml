@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b9dd07-21a4-41a2-9839-2d6c3f7a5775" name="Changes" comment="">
+    <list default="true" id="56b9dd07-21a4-41a2-9839-2d6c3f7a5775" name="Changes" comment="added Manifest file">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/TruckWithonlyCities_jar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
@@ -53,18 +53,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.truckavailableBOT.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/D/IdeaProjects/TruckWithonlyCities",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.truckavailableBOT.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/D/IdeaProjects/TruckWithonlyCities&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\D\IdeaProjects\TruckWithonlyCities\src\test\java" />
@@ -99,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732657305766</updated>
     </task>
+    <task id="LOCAL-00001" summary="added Manifest file">
+      <option name="closed" value="true" />
+      <created>1732814829749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732814829749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added Manifest file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Manifest file" />
   </component>
 </project>
