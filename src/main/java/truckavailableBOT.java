@@ -25,10 +25,9 @@ class TelegramTruckBot extends TelegramLongPollingBot {
 
     public TelegramTruckBot() {
         // Add allowed user IDs here
-        allowedUsers.add(1039376742L);  // Master
+        allowedUsers.add(1039376742L); // Master
         allowedUsers.add(120146603L);  // Bakhtiyorivich
-        allowedUsers.add(6148859532L);//Ismoil
-
+        allowedUsers.add(6148859532L); // Ismoil
 
     }
 
